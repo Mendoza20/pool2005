@@ -1,5 +1,5 @@
 import streamlit as st
-st.image("th(1).jpg")
+st.imagen("th(1).jpg")
 # Titulo de la aplicación
 st.title("Calculadora de las Leyes de los Gases")
 
